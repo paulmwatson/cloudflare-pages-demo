@@ -1,0 +1,8 @@
+{
+  "name": "direct-upload-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/paulmwatson/cloudflare-pages-demo.git",
+  "author": "Paul Watson <github.com@paulmwatson.com>",
+  "license": "MIT"
+}
