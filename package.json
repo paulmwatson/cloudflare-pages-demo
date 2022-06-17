@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/paulmwatson/cloudflare-pages-demo.git",
   "author": "Paul Watson <github.com@paulmwatson.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "dev": "npx serve ."
+  }
 }
